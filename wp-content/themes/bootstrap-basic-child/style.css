@@ -1,0 +1,18 @@
+/*
+ Theme Name:   Twitter Bootstrap Basic Child Theme
+ Theme URI:    http://paweletzki.de/wordpress/
+ Description:  Bootstrap v.3 basic theme for "Aidshilfe Westmünsterland e.V. 2016/2017"
+ Author:       Marcus Paweletzki
+ Author URI:   http://paweletzki.de/
+ Template:     bootstrap-basic
+ Version:      1.0.0
+ License:      GNU General Public License v2 or later
+ License URI:  http://www.gnu.org/licenses/gpl-2.0.html
+ Tags:         one-column, two-columns, three-columns, left-sidebar, right-sidebar, custom-background, custom-menu, featured-images, front-page-post-form, post-formats, threaded-comments, translation-ready
+ Text Domain:  twitter-bootstrap-child
+*/
+
+body {
+	font-size: 16px;
+}
+
